@@ -1,0 +1,7 @@
+{
+  "name" : "pat_uninstallable",
+  "effectConfig" : {},
+  "defaultDuration" : 1,
+
+  "scripts" : ["effect.lua"]
+}
