@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/statusControllerSettings/primaryScriptSources/-",
+    "path": "/genericScriptContexts/pat_uninstallable",
     "value": "/pat/uninstallable/uninstallable.lua"
   }
 ]
